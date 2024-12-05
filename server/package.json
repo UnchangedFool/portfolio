@@ -1,0 +1,21 @@
+{
+  "name": "portfolio-server",
+  "version": "0.0.1",
+  "description": "Ever  changing fool portfolio page server",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio",
+    "webcomponents",
+    "node"
+  ],
+  "author": "Marcel 'Nekokra' Bernhof",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UnchangedFool/portfolio/issues"
+  },
+  "homepage": "https://github.com/UnchangedFool/portfolio#readme"
+}
